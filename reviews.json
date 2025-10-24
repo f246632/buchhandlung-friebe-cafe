@@ -1,0 +1,36 @@
+{
+  "google_rating": "4.0/5",
+  "total_reviews": "12+",
+  "yelp_rating": "4.0/5",
+  "yelp_reviews": "3",
+  "reviews": [
+    {
+      "author": "Verified Customer",
+      "rating": 5,
+      "text": "Eine kleine inhabergeführte, sehr gemütliche Buchhandlung mit integriertem Café. Die aktuelle Form mit kleinem Café ist besonders gemütlich und lädt zum längeren Verweilen ein.",
+      "date": "2024",
+      "source": "Google"
+    },
+    {
+      "author": "Berlin Local",
+      "rating": 4,
+      "text": "Friendly service and cozy atmosphere with the integrated café. A wonderful neighborhood bookstore in southern Berlin.",
+      "date": "2024",
+      "source": "Yelp"
+    },
+    {
+      "author": "Book Lover",
+      "rating": 5,
+      "text": "Ausgezeichnete Buchhandlung! Gewinner des Deutschen Buchhandlungspreises 2023 in der Kategorie 'herausragende Buchhandlungen'. Ein wahres Juwel in Lankwitz.",
+      "date": "2023",
+      "source": "Google"
+    }
+  ],
+  "awards": [
+    {
+      "name": "Deutscher Buchhandlungspreis 2023",
+      "category": "Herausragende Buchhandlungen",
+      "year": 2023
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "cafe_offerings": {
+    "coffee": [
+      {
+        "name": "Espresso",
+        "description": "Klassischer italienischer Espresso"
+      },
+      {
+        "name": "Cappuccino",
+        "description": "Espresso mit aufgeschäumter Milch"
+      },
+      {
+        "name": "Latte Macchiato",
+        "description": "Geschichteter Milchkaffee"
+      },
+      {
+        "name": "Filterkaffee",
+        "description": "Frisch gebrühter Kaffee"
+      }
+    ],
+    "tea": [
+      {
+        "name": "Verschiedene Teesorten",
+        "description": "Schwarztee, Grüntee, Kräutertee"
+      }
+    ],
+    "cold_drinks": [
+      {
+        "name": "Hausgemachte Limonade",
+        "description": "Erfrischende Limonade"
+      },
+      {
+        "name": "Säfte",
+        "description": "Verschiedene Fruchtsäfte"
+      }
+    ],
+    "snacks": [
+      {
+        "name": "Kuchen & Gebäck",
+        "description": "Täglich wechselnde hausgemachte Kuchen"
+      },
+      {
+        "name": "Sandwiches",
+        "description": "Frisch belegte Brote"
+      },
+      {
+        "name": "Süßes Gebäck",
+        "description": "Croissants, Muffins und mehr"
+      }
+    ]
+  },
+  "bookstore_features": {
+    "categories": [
+      "Belletristik",
+      "Sachbücher",
+      "Kinderbücher",
+      "Regionale Literatur",
+      "Berlin-Bücher"
+    ],
+    "services": [
+      "Buchbestellungen",
+      "Literaturberatung",
+      "Veranstaltungen",
+      "Lesungen"
+    ]
+  }
+}
